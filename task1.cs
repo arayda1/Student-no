@@ -4,16 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace StudentNumber
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-
-
-           int Studentno = 44802;
+            int Studentno = 44802;
             Console.WriteLine(Studentno);
             Console.ReadLine();
         }
